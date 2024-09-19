@@ -14,11 +14,11 @@ Technologies Used:
 
 
 # How can you use this code in your local machine?
-1. git clone
+1. git clone <br>
    Go to the Client Folder
 3. cd client
 4. npm install
-5. npm run dev
+5. npm run dev <br>
    Go to Server Folder
 7. cd ../server
 8. npm install
