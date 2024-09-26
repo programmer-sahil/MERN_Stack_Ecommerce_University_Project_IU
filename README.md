@@ -127,3 +127,12 @@ PAYPAL_CLIENT_ID=your_paypal_client_id
 CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
 CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+
+
+### **Running the Application
+
+Ensure MongoDB is running locally or provide a MongoDB Atlas connection string in your .env file.
+
+Once both the frontend and backend servers are running, the app will be accessible at:
+        Backend: http://localhost:5000
+        Frontend: http://localhost:5173
